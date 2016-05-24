@@ -1,0 +1,99 @@
+<?php
+//Global
+
+$lang_cancel = "Anuleaza";
+$lang_help = "Ajutor";
+$lang_save = "Salveaza";
+$lang_rename_btn = "Redenumeste";
+$lang_title = "Pulse CMS";
+$lang_version = "Pulse CMS 4.5.2";
+$lang_update = "Actualizeaza";
+
+// Login
+
+$lang_login_incorrect = "Parola este incorecta!";
+$lang_login_password = "Parola";
+$lang_login_button = "Login";
+$lang_nav_logout = "Logout";
+
+// Home
+$lang_home_emptyfold = "Acest folder este gol."; 
+$lang_home_new = "Nou";
+$lang_home_upload_button = "Upload";
+$lang_home_preview = "Previzualizeaza";
+
+// Navigation
+
+$lang_nav_home = "Home";
+$lang_nav_blocks = "Blocuri";
+$lang_nav_img = "Media";
+$lang_nav_blog = "Blog";
+$lang_nav_pages = "Pagini";
+$lang_nav_stats = "Statistici";
+
+
+// Gallery
+
+$lang_gal_caption_gallery = "Insereaza aici textul Caption";
+$lang_gal_filename = "Nume fisier";
+$lang_gal_dimensions = "Dimensiuni";
+$lang_gal_size = "Marime";
+$lang_gal_img = "IMG";
+$lang_gal_link = "Link";
+$lang_gallery_tool_tip = "Pentru a crea o Galerie lightbox, creaza un folder cu imagini si foloseste tag-ul de embed.";
+
+// Pages
+
+$lang_pages_title = "Titlul Paginii";
+$lang_pages_description = "Descrierea Paginii";
+
+// Create
+
+$lang_create_file_or_folder = 'Fisier sau Folder nou';
+$lang_create_button = "Creaza"; 
+$lang_create_tool_tip = "Pagini/blocuri/posturi au extensia '.txt'. Pentru a crea un folder, nu adauga nici o extensie.";
+
+// Delete
+
+$lang_delete = 'Esti sigur ca vrei sa stergi ';
+$lang_del_button = "Sterge";
+
+// Errors
+
+$lang_error_create_ext = 'Extensie de Fisier invalida.';
+$lang_error_file_exists = 'Un fisier cu acest nume exista deja in acest fisier.';
+$lang_error_upload = 'Trebuie sa fii intr-o Galerie pentru a incarca o imagine.';
+$lang_no_content = 'nu exista continut';
+
+//Blog
+
+$lang_blog_read_more = 'Mai mult';
+$lang_blog_older = 'Mai vechi';
+$lang_blog_newer = 'Mai noi';
+$lang_blog_error_folder = "Nu poti crea un folder in Blog";
+$lang_blog_tool_tip = "Articolele din Blog sunt ordonate dupa numar, cel mai mare numar semnifica cel mai recent post.";
+
+//Form
+
+$lang_form_error1 = 'Trebuie sa completezi acest camp ';
+$lang_form_error2a = 'Campul ';
+$lang_form_error2b = ' este prea lung.';
+$lang_form_subject_line = 'Contact';
+$lang_form_email_sent = 'Emailul a fost trimis';
+$lang_form_sent_button = 'Trimite';
+
+// Stats
+
+$lang_stats_today = "Visitatori";
+$lang_stats_refers = "Top legaturi";
+$lang_stats_pages = "Top Pagini";
+$lang_stats_refresh = "Refresh";
+$lang_stats_pageviews = "Vizualizari";
+$lang_stats_per_visit = "Pagini / Vizite";
+$lang_stats_online = "Online";
+$lang_stats_thisweek = "Aceasta saptamana";
+$lang_stats_todays_stats = "Astazi";
+$lang_stats_nodata = "Nu sunt Date";
+
+
+?>
